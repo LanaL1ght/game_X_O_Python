@@ -11,6 +11,7 @@
 4|5|6
 -----
 1|2|3
+-----
 
 4. Winning Conditions: A player wins by getting three of their symbols in a straight line—horizontally, vertically, or diagonally.
 
